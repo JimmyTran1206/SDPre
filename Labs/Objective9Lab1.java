@@ -1,7 +1,6 @@
 public class Objective9Lab1 {
   public static void main(String[] args) {
-    printName();
-    
+    printName();  
   }
 
   public static void printName() {
