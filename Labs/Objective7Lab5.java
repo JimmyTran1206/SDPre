@@ -14,7 +14,7 @@ public class Objective7Lab5 {
 
       selection = scanner.nextInt();
       if(selection==1){
-        System.out.println("Hello human");
+        System.out.println("Hello Human");
       }else if (selection==2){
         System.out.println("Apple, Bananas, Coconuts");
       }else if (selection==3){
